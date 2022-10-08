@@ -1,6 +1,6 @@
 ## stanCodeProject
 
-Thanks for visiting my stanCode_project!\
+Thanks for visiting my stanCode_project!
 
 this repositary holds my programming projects done during my period during SC101 class.
 
