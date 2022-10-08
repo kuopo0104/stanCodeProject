@@ -1,6 +1,6 @@
 ## stanCodeProject
 
-Thanks for visiting my stanCode_project!
+Thanks for visiting my stanCode project!
 
 this repositary holds my programming projects done during my period during SC101 class.
 
@@ -10,6 +10,7 @@ Watch my *[demo video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 
 
 *[Boggle Game](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/boggle_game/boggle.py)
+-apple
 
 *[Break Out Game](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/break_out_game/breakoutgraphics.py)
 
