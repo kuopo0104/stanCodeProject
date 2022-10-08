@@ -12,23 +12,23 @@ Watch my *[demo video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 * [Boggle Game](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/boggle_game/boggle.py)
  * Python semantic and syntax
 
-*[Break Out Game](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/break_out_game/breakoutgraphics.py)
+* [Break Out Game](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/break_out_game/breakoutgraphics.py)
  * game design
   * image processing
   * Python semantic and syntax
 
-*[Anagram Searching system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/application_of_recursion/anagram.py)
+* [Anagram Searching system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/application_of_recursion/anagram.py)
  * image processing
  * recyrsive function
  * Python semantic and syntax
  * data structure
 
-*[Data analysis system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/searching_system/babynames.py)
+* [Data analysis system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/searching_system/babynames.py)
  * image processing
  * Python semantic and syntax
  * data structure
 
-*[Photoshop](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/my_photoshop/stanCodoshop.py) 
+* [Photoshop](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/my_photoshop/stanCodoshop.py) 
  * image processing
  * Python semantic and syntax
  * data structure
