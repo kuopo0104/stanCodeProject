@@ -16,13 +16,13 @@ Watch my  *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
    * image processing
    * Python semantic and syntax
 
-* [Anagram Searching system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/application_of_recursion/anagram.py)
+* [Anagram Searching System](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/application_of_recursion/anagram.py)
   * image processing
   * recyrsive function
   * Python semantic and syntax
   * data structure
 
-* [Data analysis system](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/searching_system/babynames.py)
+* [Data Analysis System](https://github.com/kuopo0104/stanCodeProject/blob/main/stanCode_project/searching_system/babynames.py)
   * image processing
   * Python semantic and syntax
   * data structure
